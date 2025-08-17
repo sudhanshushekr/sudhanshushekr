@@ -5,7 +5,7 @@ I enjoy solving problems, building scalable apps, and experimenting with AI/ML p
 ---
 ## 🚀 Skills
 - **Languages**: Python, JavaScript, TypeScript
-- **Frameworks/Libraries**: React, Node.js
+- **Frameworks/Libraries**: React, Node.js, Flask, Fast Api
 - **Core CS**: Data Structures & Algorithms, Problem Solving
 - **AI/ML**: Machine Learning, Computer Vision
 ---
