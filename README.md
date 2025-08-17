@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Sudhanshu Shekhar
+## Hi there 👋 I'm Sudhanshu
 
 Software developer focused on Python, JavaScript/TypeScript, DSA, and ML.
 
